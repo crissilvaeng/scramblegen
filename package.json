@@ -1,7 +1,7 @@
 {
   "name": "scramblegen",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "repository": "git@github.com:crissilvaeng/scramblegen.git",
   "author": "Cristina Silva <crissilva.eng@gmail.com>",
   "license": "MIT",
